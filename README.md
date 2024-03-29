@@ -26,5 +26,6 @@ offres de stage, de gérer les candidatures et de communiquer avec les étudiant
 ## déployement
 1- crer votre projet laravel
 2- installation des packages 'npm i'
-3-créer la base de donné local mysql
-4-et voila
+3- installer les dependence de laravel 'composer install'
+4-créer la base de donné local mysql
+5-et voila
