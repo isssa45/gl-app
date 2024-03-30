@@ -13,7 +13,7 @@
       :class="link.id=== selectedIndex ? 'active':null"
       >
         <font-awesome-icon class="menu-icon h-6 w-6 justify-center items-center inline-flex mr-2" :icon="link.icon"/> 
-        <span class="text-base">{{ link.text  }}</span> 
+        <span class="text-base">{{ link.text }}</span> 
       </a>
     </li>
   </ul>
