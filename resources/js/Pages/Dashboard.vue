@@ -10,7 +10,7 @@ import { Head } from '@inertiajs/vue3';
     <Head title="Dashboard" />
 
     <AuthenticatedLayout>
-        <div class="bg-gray-200 min-h-[500px]">
+        <div class="bg-red-400 min-h-[500px]">
             here is the content of the page
         </div>
     </AuthenticatedLayout>
